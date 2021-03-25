@@ -1,0 +1,17 @@
+.box{
+    height: 450px;
+    background-color: indigo;
+}
+.tx1{
+    color: white;
+    padding-top: 160px;
+}
+.tx2{
+    color: white;
+}
+.explore{
+    background-color: blue;
+    border-radius: 25px;
+    padding: 5px 40px 5px 40px;
+    border-color: transparent;
+}
